@@ -1,3 +1,4 @@
 this file is to be used to test in the remote server
 use this to check sync
 editing the file to check git restore
+correct command was git revert, used to revert commit
